@@ -3,10 +3,10 @@ config.php
 admin/config.php
 
 !index.html
+!nbproject/
 
 download/
 image/data/
 image/cache/
 system/cache/
 system/logs/
-nbproject/
